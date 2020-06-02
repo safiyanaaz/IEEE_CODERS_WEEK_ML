@@ -1,0 +1,3 @@
+Task : Write a Blog explaining your granny about ML.
+
+Medium Blog Link : https://medium.com/@safiya.f30/a-quick-ride-to-machine-learning-c31507a6ff29
